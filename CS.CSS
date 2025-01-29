@@ -1,5 +1,6 @@
 /* Importar fuente de Google Fonts */
-body {
+body 
+{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
@@ -9,7 +10,8 @@ body {
     height: 100vh;
 }
 
-.container {
+.con 
+{
     background: #fff;
     padding: 20px;
     border-radius: 12px;
@@ -17,7 +19,9 @@ body {
     width: 350px;
 }
 
-img {
+
+img 
+{
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -25,24 +29,32 @@ img {
     border: 3px solid #3dcd68; /**no es mi color favorito pero habia que buscar algo que**/
 }
 
-h1 {
+h1 
+{
     font-size: 24px;
     color: #333;
     margin: 10px 0;
 }
 
-p {
+p 
+{
     margin: 5px 0;
     font-size: 14px;
 }
 
 
-ul {
-    list-style: none;
+ul 
+{
     padding: 0;
 }
 
-ul li {
+.XD
+{
+    padding: 0; 
+}
+
+ul li 
+{
     background: #3dcd68;
     color: #fff;
     padding: 8px;
@@ -51,18 +63,21 @@ ul li {
     font-size: 14px;
 }
 
-a {
+a 
+{
     text-decoration: none;
     margin: 10px;
     transition: transform 0.3s ease-in-out;
 }
 
-a i {
+a i 
+{
     font-size: 30px;
     transition: color 0.3s; 
 }
 
-a i:hover {
+a i:hover 
+{
     color: #007bff;
     transform: scale(1.2);
 } /**el hover es para que haga lo de cambiar de color con la animacion (solo funciona con instram porque
