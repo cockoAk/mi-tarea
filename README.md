@@ -1,1 +1,1 @@
-[mi-tareaa](mi-tareaa.png)
+[mi-tareaa](mi tareaa.png)
