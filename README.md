@@ -1,2 +1,1 @@
-[mi-tareaa
-]
+[mi-tareaa]
